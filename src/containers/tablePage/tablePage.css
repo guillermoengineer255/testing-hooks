@@ -1,0 +1,18 @@
+.table-page-title { 
+    text-align: center !important;
+}
+.table-button { 
+    background-color:#B4CFD9!important;
+    font-weight: 700!important;
+    width: 80%;
+    border: 1px solid #000 !important;
+}
+.crypto-name { 
+    font-weight: 700 !important;
+}
+.paper-container { 
+    border-style: solid !important;
+}
+.row-body { 
+    border-style: solid !important;
+}

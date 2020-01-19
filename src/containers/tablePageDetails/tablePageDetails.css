@@ -1,0 +1,63 @@
+.coin-name-title { 
+    font-weight: 500 !important; 
+    text-align: center;
+    font-size:30px!important;
+    margin-top:-60px !important;
+    margin-left:20px!important;
+}
+
+.coins-selected-bottom.MuiButton-root { 
+    background-color:#B4CFD9!important;
+    border: 1px solid #000 !important;
+    width:250px;
+    font-weight: 500 !important; 
+    text-align: center;
+    margin-bottom: 20px !important;
+    margin-left:20px !important;
+    font-size: 20px !important;
+}
+.textField { 
+    width:200px !important;
+    height:40px;
+}
+.selected-bottom.MuiButton-root { 
+    background-color:#6495ED!important;
+    border: 1px solid #000 !important;
+    width:250px !important;
+    font-weight: 500 !important; 
+    text-align: center;
+    margin-bottom: 20px !important;
+    margin-left:20px !important;
+    font-size: 20px !important;
+}
+.icon { 
+    font-size: 60px !important;
+}
+.button-trade { 
+    background-color:#6495ED!important;
+    border: 1px solid #000 !important;
+    width:250px;
+    font-weight: 600 !important; 
+    text-align: center;
+    margin-bottom: 20px !important;
+    margin-left:20px !important;
+    font-size: 20px !important;
+}
+.successful-message { 
+    color: #33691e !important;
+    font-weight: 700;
+    text-align:center !important;
+    font-size:16px;
+}
+
+.colum-bottoms { 
+    text-align: center !important;
+}
+.input-container { 
+    text-align:center;
+}
+.text-label-container { 
+    text-align:center;
+    margin-left:80px !important;
+    width:180px;
+}
